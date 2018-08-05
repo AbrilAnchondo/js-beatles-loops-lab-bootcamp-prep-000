@@ -20,5 +20,7 @@ function theBeatlesPlay (musicians, instruments) {
  function iLoveTheBeatles (number) {
    var array = [];
    }
-   do { array = arrayl[i] + "I love the Beatles!"}
-   while  
+   do { array = array + "I love the Beatles!";
+   number++;}
+   while  (number < 15);
+   
