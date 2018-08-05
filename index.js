@@ -19,10 +19,11 @@ function theBeatlesPlay (musicians, instruments) {
   
  function iLoveTheBeatles (number) {
    var array = [];
-   }
+   
    do {array + "I love the Beatles!";
    number++;}
    while  (number < 15);
+ }
    return array;
    
    
