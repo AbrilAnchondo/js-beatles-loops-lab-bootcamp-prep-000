@@ -20,4 +20,4 @@ function theBeatlesPlay (musicians, instruments) {
  function iLoveTheBeatles (number) {
    var array = [];
    }
-   do 
+   do { array = arrayl[i] + "I love the Beatles!"
